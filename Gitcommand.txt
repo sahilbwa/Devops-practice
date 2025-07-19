@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ls -l   
 pwd
 cd Github_for_devops
@@ -27,3 +28,6 @@ git restore testing.py
   16 cd Devops-clone-practice
   17 git clone https://github.com/sahilbwa/90DaysOfDevOps.git
   18 git status
+=======
+this is a practice commit
+>>>>>>> faba0ea605b6e90f4316b8735ad82690f21db930
