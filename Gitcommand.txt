@@ -1,0 +1,29 @@
+ls -l   
+pwd
+cd Github_for_devops
+rm testing.py
+git init
+git status
+git add testing.py
+git rm --cached testing.py
+git add .
+git commit -m "test"
+rm testing.py
+git restore testing.py
+   2 git remote add origin https://github.com/sahilbwa/Devops-practice.git
+   3 cd Devops-practice
+   4 https://github.com/sahilbwa/Devops-practice.git
+   5 cd Github_for_devops
+   6 git remote add origin https://github.com/sahilbwa/Devops-practice.git
+   7 clear
+   8 git remote add origin https://github.com/sahilbwa/Devops-practice.git
+   9 git remote -v
+  10 git push origin master -
+  11 git remote set-url origin https://@github.com/sahilbwa/Devops-practice.git
+  12 git remote -v
+  13 git push origin master
+  14 clear
+  15 mkdir Devops-clone-practice
+  16 cd Devops-clone-practice
+  17 git clone https://github.com/sahilbwa/90DaysOfDevOps.git
+  18 git status
